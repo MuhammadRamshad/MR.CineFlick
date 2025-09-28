@@ -2,7 +2,6 @@
 
 MR.CineFlick is a simple web application that allows users to search for movies using the [OMDb API](https://www.omdbapi.com/). Enter a movie name and get a list of matching movies with posters and release years.
 
-[Live link](https://muhammadramshad.github.io/MR.CineFlick/)
 
 ## Features
 
